@@ -144,3 +144,18 @@ Contributions are welcome! To contribute:
 
 This project is open-source and available under the [MIT License](LICENSE).
 
+
+
+## References
+
+1. **Smartphone Price Prediction in Retail Industry Using Machine Learning Techniques**  
+   Authors: K. T. Chandrashekhara, M. Thungamani, C. N. Gireesh Babu, and T. N. Manjunath  
+   Description: A study on predicting smartphone prices in retail using machine learning methods.
+
+2. **Prediction of Phone Prices Using Machine Learning Techniques**  
+   Authors: S. Subhiksha, Swathi Thota, and J. Sangeetha  
+   Description: An exploration of various machine learning techniques to predict smartphone prices effectively.
+
+
+
+
