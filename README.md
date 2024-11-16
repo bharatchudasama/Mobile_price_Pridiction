@@ -1,6 +1,4 @@
-Here is the full content in Markdown format:
 
-```markdown
 # Mobile Price Prediction
 
 This project uses machine learning techniques to predict mobile phone prices based on various features such as brand, specifications, camera quality, and screen resolution. The dataset contains information on a wide variety of mobile phones and their respective prices. 
